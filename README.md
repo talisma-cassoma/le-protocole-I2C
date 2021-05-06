@@ -7,6 +7,7 @@ ARDUINO esclave, en utilisant un potentiomètre 1k dont le curseur est branché 
 broche analogique A0 de la carte ARDUINO maitre.
 L’application devrait être testée en utilisant la plateforme en ligne « Tinkercad ».
 
+<img src="images/app1"></img>
 
 # tp2-communiquer par protocole I2C, une horloge temps réel
 
@@ -17,6 +18,8 @@ Pour bien comprendre le fonctionnement du circuit DS1307, vous devrez faire appe
 son datasheet.
 Cette application devrait être testée en utilisant l’IDE Arduino et le logiciel ISIS.
 
+<img src="images/app2"></img>
+
 # tp3-arduino
 
 C ette troisième application consiste à faire
@@ -26,3 +29,5 @@ I2C (PCF8574+LCD LM016L), et un autre afficheur LCD parallèle connecté directe
 sur le maitre. Pour bien comprendre le circuit PCF8574, vous devrez utiliser son
 datasheet.
 Cette application devrait être testée en utilisant l’IDE Arduino et le logiciel ISIS.
+
+<img src="images/app3"></img>
